@@ -7,6 +7,8 @@ Countdown to the time of lauch
 - First of require refresh page
 - Then do auto-refresh on the page
 
+Change
+
 
 
 
