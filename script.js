@@ -12,7 +12,7 @@
 function timeRemaining(){
 
   // set release date
-  const release = new Date('October 1, 2020 17:00:00')
+  const release = new Date('September 30, 2020 17:00:00')
   
   // get total seconds between the times
   var delta = Math.abs(release - new Date()) / 1000;
@@ -45,6 +45,8 @@ setInterval(timeRemaining,1000);
 
 
 console.log('script has run')
+
+ 
 
 
 

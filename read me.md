@@ -1,4 +1,4 @@
-# Luanch countdown 
+# Launch countdown 
 
 Countdown to the time of lauch
 
